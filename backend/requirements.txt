@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn[standard]
+PyJWT[crypto]
+httpx
+SQLAlchemy
+psycopg[binary]
+alembic
+pytest
